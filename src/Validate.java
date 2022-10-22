@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.ArrayList;
 import javax.swing.JOptionPane;
 
-public class Calculator {
+public class Validate {
     
     public void calculate(){
 

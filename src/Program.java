@@ -1,7 +1,7 @@
 public class Program {
     
     public static void main(String[] args) {
-        Calculator calc = new Calculator();
+        Validate calc = new Validate();
         calc.calculate();
     }
 }
