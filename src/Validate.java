@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 public class Validate {
     
-    public void calculate(){
+    public void validateCPF(){
 
         String input = JOptionPane.showInputDialog(null, "Digite o CPF a ser validado: ");
         String[] splitted = input.split("");
